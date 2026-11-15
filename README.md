@@ -1,4 +1,4 @@
-# Techno Madrid bot: overview
+# TG bot: overview
 
 > **Source code is private.** This repository describes the system's logic and architecture.
 
